@@ -1,0 +1,5 @@
+com/user/usermanagementservice/UserManagementMicroserviceApplicationTests.class
+com/user/usermanagementservice/Repository/UserRepositoryTest.class
+com/user/usermanagementservice/Model/UsuariosTest.class
+com/user/usermanagementservice/Model/RolesTest.class
+com/user/usermanagementservice/Service/UserServiceTest.class
